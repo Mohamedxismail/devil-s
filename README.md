@@ -40,10 +40,6 @@ The project focuses on delivering a clean, responsive, and smooth browsing exper
 
 https://cinemax-devils.vercel.app/
 
-💻 **GitHub Repository**
-
-https://github.com/Mohamedxismail/movie-app
-
 ---
 
 # ✨ Features
