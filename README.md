@@ -58,45 +58,6 @@ A modern and responsive movie discovery application built with **React** and **V
   
 </p>
 
----
-
-## ⚙️ Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/Mohamedxismail/YOUR-REPOSITORY-NAME.git
-```
-
-Go to the project directory
-
-```bash
-cd YOUR-REPOSITORY-NAME
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
-Create a `.env` file and add your TMDB API Key.
-
-```env
-VITE_TMDB_API_KEY=YOUR_API_KEY
-```
-
-Run the development server
-
-```bash
-npm run dev
-```
-
-Open your browser
-
-```
-http://localhost:5173
-```
 
 ---
 
