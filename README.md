@@ -164,7 +164,8 @@ https://cinemax-devils.vercel.app/
 Clone the repository
 
 ```bash
-git clone https://github.com/Mohamedxismail/movie-app.git
+git clone https://github.com/Mohamedxismail/devil-s
+.git
 ```
 
 Navigate to the project folder
