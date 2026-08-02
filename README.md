@@ -6,7 +6,7 @@ A modern and responsive movie discovery application built with **React** and **V
 
 ## 🌐 Live Demo
 
-👉 https://YOUR-VERCEL-LINK.vercel.app
+👉 https://cinemax-devils.vercel.app/
 
 ---
 
@@ -52,6 +52,10 @@ A modern and responsive movie discovery application built with **React** and **V
   <img src="search.png" alt="Search" width="24%">
   <img src="trending.png" alt="Trending" width="24%">
   <img src="tv%20series.png" alt="TV Series" width="24%">
+    <img src="homepage.png" alt="homepage" width="24%">
+    <img src="suggestions.png" alt="suggestions" width="24%">
+    <img src="favourites.png" alt="favourites" width="24%">
+  
 </p>
 
 ---
